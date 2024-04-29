@@ -46,7 +46,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Red Stream - connect the donors</title>
+  <title>Red Drop - connect the donors</title>
 
   <!-- favicon-->
   <link rel="shortcut icon" href="./favicon.svg" type="image/svg+xml">
@@ -117,7 +117,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <ul class="contact-list">
           <li class="contact-item">
             <ion-icon name="mail-outline"></ion-icon>
-            <a href="mailto:redstream001@gmail.com" class="contact-link">redstream001@gmail.com</a>
+            <a href="mailto:reddrop007@gmail.com" class="contact-link">reddrop007@gmail.com</a>
           </li>
           <li class="contact-item">
             <ion-icon name="call-outline"></ion-icon>
@@ -150,7 +150,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </div>
     <div class="header-bottom" data-header>
       <div class="container">
-        <a href="#" class="logo">Red Stream</a>
+        <a href="#" class="logo">Red Drop</a>
         <nav class="navbar container" data-navbar>
           <ul class="navbar-list">
             <li>
@@ -279,7 +279,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <div class="footer-top section">
       <div class="container">
         <div class="footer-brand">
-          <a href="#" class="logo">Red Stream</a>
+          <a href="#" class="logo">Red Drop</a>
           <p class="footer-text">
             We are passionate about connecting blood donors with recipients and bridging the gap in the healthcare industry. 
             We strive to create a community that fosters empathy, support, and solidarity among individuals who are committed to making a difference.
@@ -386,8 +386,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             </div>
             <a href="https://goo.gl/maps/BYA5MxQUg5B8ZFLcA">
             <address class="item-text">
-              Near Thaluk Headquarters,<br>
-              Vaikom, Kottayam, Kerala IN
+              Ahmedabad, <br>
+              India
             </address>
           </a>
           </li>
@@ -401,7 +401,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="item-icon">
               <ion-icon name="mail-outline"></ion-icon>
             </div>
-            <a href="mailto:help@example.com" class="footer-link">redstream001@gmail.com</a>
+            <a href="mailto:help@example.com" class="footer-link">reddrop007@gmail.com</a>
           </li>
         </ul>
       </div>
@@ -409,7 +409,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <div class="footer-bottom">
       <div class="container">
         <p class="copyright">
-          &copy; 2024 All Rights Reserved by Red Stream
+          &copy; 2024 All Rights Reserved by Red Drop
         </p>
         <ul class="social-list">
           <li>
